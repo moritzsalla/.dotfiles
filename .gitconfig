@@ -3,6 +3,7 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+
 [user]
-	name = Moritz
-	email = 42788026+moritzsalla@users.noreply.github.com\n
+	name = Moritz Salla
+	email = 42788026+moritz@buildinamsterdam.com\n
